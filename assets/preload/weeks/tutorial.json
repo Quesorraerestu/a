@@ -1,12 +1,14 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		["Christmas", "christmas", [95, 146, 59]],
+		["Spookpostor", "spookpostor", [95, 146, 59]]
+		
 	],
 
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
 	"weekBackground": "stage",
 
