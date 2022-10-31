@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rig",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "log idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left log",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/loggo",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "fella",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		144,
+		86
+	],
+	"camera_position": [
+		530,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

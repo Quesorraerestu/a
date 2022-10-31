@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "clow",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bark animatinop"
+		},
+		{
+			"offsets": [
+				0,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bark animatinop"
+		},
+		{
+			"offsets": [
+				0,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bark animatinop"
+		},
+		{
+			"offsets": [
+				0,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bark animatinop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/clowfoe",
+	"position": [
+		170,
+		340
+	],
+	"healthicon": "grinch",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}
